@@ -1,4 +1,4 @@
-### Olá! Meu nome é Bruna Yasmim.
+### 👋 Olá! Meu nome é Bruna Yasmim. 
 
 🎓 Atualmente sou studante de Engenharia de Software | Apaixonada por tecnologia e focada em aprimorar minhas habilidades em DevOps
 
